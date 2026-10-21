@@ -13,3 +13,6 @@ fahrenheit = celsius * 9 / 5 + 32
 # Show the result
 print("Fahrenheit:", fahrenheit)
 print("Conversion complete.")
+# Convert to Kelvin
+kelvin = celsius + 273.15
+print(f"{celsius} C = {kelvin:.2f} K")
