@@ -1,5 +1,4 @@
-# Temperature Converter-Main Version
-
+# Temperature Converter
 ## Purpose
 
 A small Python program that converts a temperature from Celsius to Fahrenheit. Created for CS-117 Lab 7 to practise Git and GitHub.
