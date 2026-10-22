@@ -13,6 +13,6 @@ fahrenheit = celsius * 9 / 5 + 32
 # Show the result
 print("Fahrenheit:", fahrenheit)
 print("Conversion complete.")
-# Convert to Kelvin
+# Kelvin = Celsius + 273.15 (0 degrees Celsius equals 273.15 K; the Kelvin scale starts at absolute zero)
 kelvin = celsius + 273.15
 print(f"{celsius} C = {kelvin:.2f} K")
